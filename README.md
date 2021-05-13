@@ -1,4 +1,4 @@
-I had issues with starting project using react-native-scripts, so I used ```expo start``` to run the project instead of npm or yarn. For this I added expo to the start, end, test in the scripts field of the package.json.
+I had issues with starting project using react-native-scripts, so I used ```expo start``` to run the project instead of ```npm start``` or ```yarn start```. For this I added expo to the start, end, test in the scripts field of the package.json.
 
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
